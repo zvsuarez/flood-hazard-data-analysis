@@ -1,3 +1,3 @@
 # Data Analysis for a 5-Year Flood Hazard Map output
 
-Contains the source files and script for data processing of the required parameters from 3 different sources (**SENTINEL-1**, **PAGASA-BUCAF AWS**, and **Project SARAi**). Charts and graphs are remade in _Google Data Studio_.
+Data analysis script and source files for analysing and visualising the required weather parameters from a satellite (**SENTINEL-1**), weather agency station (**PAGASA-BUCAF AWS**), and an action-research program called (**Project SARAi**) for generating soil aggregate volumes and excess water contribution used for flood hazard mapping.
